@@ -1,7 +1,7 @@
 # Documentation
 
-## jQuery alert!
-gridLayout depends on jQuery for DOM manipulation.
+## Dependencies
+-jQuery gridLayout depends on jQuery for DOM manipulation.
 
 ## How to use
 Include the required files
